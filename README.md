@@ -85,5 +85,5 @@ Thank you!
 * [Ken](https://github.com/KuroKen91)
 * [Mussin](https://github.com/mussinbenarbia)
 * [Johan](https://github.com/johanthestrup)
-* [Pete](https://github.com/griffitp12)
+* [Pete](https://github.com/petegriffith)
 
